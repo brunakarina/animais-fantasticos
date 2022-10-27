@@ -1,6 +1,6 @@
 # Projeto Animais Fantásticos
 
-![preview](./assets/af.gif.gif)
+![preview](./assets/img.af.png)
 
 Projeto desenvolvido no curso de JavaScript ES6+ Completo da Origamid.
 
