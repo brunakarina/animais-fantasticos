@@ -13,5 +13,4 @@ Projeto desenvolvido no curso de JavaScript ES6+ Completo da Origamid.
 - CSS
 
 ## 💻 Contato
-
-brubskarina@gmail.com
+- brubskarina@gmail.com
